@@ -1,0 +1,1 @@
+### Calculadora para solucionar ecuaciones cuadráticas o de segundo grado.
